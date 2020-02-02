@@ -1,7 +1,4 @@
-body{
-    background-color: blueviolet;
-    
-}
+
 
 .footer {
     position: fixed;
@@ -11,11 +8,5 @@ body{
     background-color: rgb(93, 104, 109);
     color: white;
     text-align: center;
-  
- }
-
- .navbar-header{
-    background-color: rgb(134, 219, 184);
-    width: 150px;
-    text-align: center;
- }
+    padding: 2px 0px 2px 0px;
+}
