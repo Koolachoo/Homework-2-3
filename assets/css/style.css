@@ -1,4 +1,4 @@
-
+/*Code for sticky footer*/
 
 .footer {
     position: fixed;
@@ -11,6 +11,7 @@
     padding: 2px 0px 2px 0px;
 }
 
+/*change the color of the title of the cards*/
 h2{
     background-color: rgb(219, 219, 219);
 }
