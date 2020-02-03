@@ -1,3 +1,7 @@
+### Link to Website
+
+https://koolachoo.github.io/Homework-2-3/.
+
 ### Purpose
 
 This project is to create a portfolio that showcases the work I have completed thus far. Its sole purpose is to provide future employers with a good idea of my capabilites
