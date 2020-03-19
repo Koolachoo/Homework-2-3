@@ -3,9 +3,9 @@
     width: 200px;
 } */
 
-.card-body{
+/* .card-body{
     background-color: blueviolet;
-}
+} */
 
 
 /*Code for sticky footer*/
@@ -24,4 +24,12 @@
 /*change the color of the title of the cards*/
 h2{
     background-color: rgb(219, 219, 219);
+}
+
+.jumboText{
+    text-align: center;
+}
+
+.card{
+    justify-content: center;
 }
